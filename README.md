@@ -22,6 +22,6 @@ Random erasing augmentation provided some improvements. Building separate models
 
 
 ## Refrencess
-1- [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
-2- [Multi-view Convolutional Neural Networks for 3D Shape Recognition](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf)
+- [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
+- [Multi-view Convolutional Neural Networks for 3D Shape Recognition](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf)
 

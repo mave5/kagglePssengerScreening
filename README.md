@@ -19,7 +19,8 @@ Model architecture as seen in the figure is basically a conv2D to extract featur
 ## Insights
 Random erasing augmentation provided some improvements. Building separate models on 90,180,270 rotated dataset was also very effective. It is also better to use the original dataset as opposed to the down-sampled data. Although, it is more time consuming to train. 
 
-
+## Presentation Slides
+See [link](https://github.com/mravendi/kagglePssengerScreening/blob/master/presentation.pdf) for presentation slides.
 
 ## Refrencess
 - [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)

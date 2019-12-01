@@ -1,4 +1,4 @@
-# kagglePssengerScreening
+# Passenger Screening Algorithm Challenge
 
 My winning solution was an ensemble of 11 models. All models are end-to-end, i.e., they take as input 16 images per subject and spit out 17 probabilities per threats. I did not use any pretrained model or weights. All models are hand-crafted CNN based models. All models were trained on a Titan X GPU.
 

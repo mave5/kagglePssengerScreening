@@ -21,5 +21,7 @@ Random erasing augmentation provided some improvements. Building separate models
 
 
 
-## Ref1
-Zhun Zhong, Liang Zheng, Guoliang Kang, Shaozi Li, Yi Yang “Random Erasing Data Augmentation”
+## Refrencess
+1- [Random Erasing Data Augmentation](https://arxiv.org/abs/1708.04896)
+2- [Multi-view Convolutional Neural Networks for 3D Shape Recognition](http://vis-www.cs.umass.edu/mvcnn/docs/su15mvcnn.pdf)
+

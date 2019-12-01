@@ -18,3 +18,8 @@ Model architecture as seen in the figure is basically a conv2D to extract featur
 
 ## Insights
 Random erasing augmentation provided some improvements. Building separate models on 90,180,270 rotated dataset was also very effective. It is also better to use the original dataset as opposed to the down-sampled data. Although, it is more time consuming to train. 
+
+
+
+## Ref1
+Zhun Zhong, Liang Zheng, Guoliang Kang, Shaozi Li, Yi Yang “Random Erasing Data Augmentation”
